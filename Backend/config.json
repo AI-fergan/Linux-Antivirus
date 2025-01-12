@@ -3,10 +3,7 @@
 
     "quick": ["/home/noam/Documents", 
               "/home/noam/Downloads", 
-              "/home/noam/Videos",
-              "/home/noam/Desktop/pwnable.kr/aeg",
-              "/home/noam/Desktop/pwnable.kr/md5_calculator",
-              "/home/noam/Desktop/rootkit"],
+              "/home/noam/Videos"],
 
     "full": ["/home/noam/Desktop", 
              "/tmp", 
